@@ -1,4 +1,4 @@
 # Microprocessor-Lab
-As a part of sem 5
+A collection of all alps using 8086 and 8051 written as a part of my 5th semester.
 
 
